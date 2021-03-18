@@ -284,9 +284,11 @@ width: 265px;
 height: 42px;
 margin-left: 447px;
 margin-right: 448px;
-margin-top: 94px;
-margin-bottom: 50px;
+padding-top: 94px;
+padding-bottom: 100px;
+
 }
+
 .name {
 color:var(--title-color-text);
 font-style: 400;
